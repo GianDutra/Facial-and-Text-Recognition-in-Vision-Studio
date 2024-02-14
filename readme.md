@@ -32,7 +32,7 @@ First, I clicked on "Create a resource" and created a new "Cognitive Service". A
 
 ### **First Experiment**
 
-dakodakodkaodkao
+I used the facial recognition service to try to recognize a photo of myself.
 
 <img src="./Images/6.png" alt="">
 <img src="./Images/7.png" alt="">
@@ -42,7 +42,7 @@ dakodakodkaodkao
 
 ### **Second Experiment**
 
-adadadadadada
+I used a Japanese book that I have and tested to see if the text extraction from image service would work even if the text is in Japanese and written in the traditional vertical orientation.
 
 <img src="./Images/9.png" alt="">
 <img src="./Images/10.png" alt="">
@@ -51,14 +51,14 @@ adadadadadada
 
 ### **Third Experiment**
 
-adadadadadada
+I used a photo from the game "Yakuza Kiwami" to test the service of adding a description to the photo.
 
 <img src="./Images/11.png" alt="">
 <img src="./Images/12.png" alt="">
 
 ### **Fourth Experiment**
 
-adadadadadada
+I used a video of a race from the movie "Fast and Furious: Tokyo Drift" and tested the service for recognizing any event or object during the video, aiming to find the instances when the red car appears.
 
 
 <img src="./Images/13.png" alt="">
