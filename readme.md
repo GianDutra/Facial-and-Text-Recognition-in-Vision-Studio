@@ -29,17 +29,38 @@ First, I clicked on "Create a resource" and created a new "Cognitive Service". A
 <img src="./Images/5.png" alt="">
 
 
-### **Step two**
 
-I initiated the studio as you can see in the photo, I chose the "Automated ML" option and created a new automated ML job. Next, I put in a name I thought was suitable for my project, a name for my experiment, and a description. After that, I chose to perform regression because I wanted to predict a numerical value. I selected "Tabular" as the data asset type, imported a .csv file that I wanted to experiment with, and processed the data to see if it was in the correct format. Finally, I chose the primary metric "NormalizedRootMeanSquaredError" and allowed the "RandomForest" and "LightGBM" models, setting in the limits tab the respective values of: 3, 3, 3, 0.085, 15, 15, and enabling early termination, in addition to choosing the validation option called "Training validation split".
+### **First Experiment**
+
+dakodakodkaodkao
 
 <img src="./Images/6.png" alt="">
 <img src="./Images/7.png" alt="">
 <img src="./Images/8.png" alt="">
+
+
+
+### **Second Experiment**
+
+adadadadadada
+
 <img src="./Images/9.png" alt="">
 <img src="./Images/10.png" alt="">
+
+
+
+### **Third Experiment**
+
+adadadadadada
+
 <img src="./Images/11.png" alt="">
 <img src="./Images/12.png" alt="">
+
+### **Fourth Experiment**
+
+adadadadadada
+
+
 <img src="./Images/13.png" alt="">
 <img src="./Images/14.png" alt="">
 <img src="./Images/15.png" alt="">
