@@ -67,7 +67,7 @@ I used a video of a race from the movie "Fast and Furious: Tokyo Drift" and test
 
 
 ## Final Considerations
-In this project, I learned a lot about Azure Machine Learning, and although I already had some experience in Machine Learning through courses and projects, it was really cool to see how easy, fast, and advanced this matter is within Azure. I will definitely use these services again if I need to perform a regression or any other task, and I'm excited for my next learning opportunity.
+I found it incredible how artificial intelligence is managing to learn and detect faces, images, objects, and events. I had a lot of fun conducting these experiments and am excited to see what artificial intelligence will be able to do in a few years... truly, the future is bright.
 
 ## 👨‍💼 Autor
 
