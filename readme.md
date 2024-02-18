@@ -4,10 +4,10 @@
 
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GianDutra/Machine-Learning-no-Azure-ML">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GianDutra/Facial-and-Text-Recognition-in-Vision-Studio">
 
-   <a href="https://github.com/GianDutra/Machine-Learning-no-Azure-ML/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/Machine-Learning-no-Azure-ML">
+   <a href="https://github.com/GianDutra/Facial-and-Text-Recognition-in-Vision-Studio/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/Facial-and-Text-Recognition-in-Vision-Studio">
   </a>
   
 </p>
