@@ -11,7 +11,7 @@
   </a>
   
 </p>
-<img src="./Images/8.png" alt="dashboard apresentando diversos números estatísticos, um gráfico comparando o que estava previsto e o que realmente aconteceu e um gráfico de histograma" title="Machine-Learning-Azure-ML">
+<img src="./Images/8.png" alt="" title="Facial-and-Text-Recognition-in-Vision-Studio">
 > Project developed as a challenge - AI-900 Preparation!
 
 ## About the project
